@@ -43,10 +43,3 @@ ul, li {
     opacity: 0.9; 
 }
 
-.audio {
-    border: 2px dashed blue;
-    color: black;
-    background-color: white;
-    opacity: 0.9;
-    padding-right: 10px;
-}
