@@ -37,9 +37,9 @@ a {
 }
 
 ul, li {
-    border: 2px dashed blue;
+    border: 1px dashed blue;
     color: black;
     background-color: white;
-    opacity: 0.9; 
+    opacity: 0.8; 
 }
 
